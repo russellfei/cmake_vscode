@@ -1,0 +1,3 @@
+D:/ff/codespace/codespace/cpp/cmake_in_vscode/cmake_test/build/CMakeFiles/rebuild_cache.dir
+D:/ff/codespace/codespace/cpp/cmake_in_vscode/cmake_test/build/CMakeFiles/cmtst.dir
+D:/ff/codespace/codespace/cpp/cmake_in_vscode/cmake_test/build/CMakeFiles/edit_cache.dir

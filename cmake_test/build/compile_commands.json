@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/ff/codespace/codespace/cpp/cmake_in_vscode/cmake_test/build",
+  "command": "/C/msys64/mingw64/bin/g++.exe    -g   -o CMakeFiles/cmtst.dir/main_first.obj -c /D/ff/codespace/codespace/cpp/cmake_in_vscode/cmake_test/main_first.cpp",
+  "file": "D:/ff/codespace/codespace/cpp/cmake_in_vscode/cmake_test/main_first.cpp"
+}
+]

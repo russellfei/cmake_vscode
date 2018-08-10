@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/ff/codespace/codespace/cpp/cmake_file_version/build",
+  "command": "/C/msys64/mingw64/bin/g++.exe   -I/D/ff/codespace/codespace/cpp/cmake_file_version/build  -g   -o CMakeFiles/Tutorial.dir/tutor.cpp.obj -c /D/ff/codespace/codespace/cpp/cmake_file_version/tutor.cpp",
+  "file": "D:/ff/codespace/codespace/cpp/cmake_file_version/tutor.cpp"
+}
+]

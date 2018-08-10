@@ -1,0 +1,5 @@
+{
+    "cmake.generator": "MSYS Makefiles",
+    "cmake.configureOnOpen": true,
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools"
+}

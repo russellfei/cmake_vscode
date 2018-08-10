@@ -1,0 +1,2 @@
+C:/msys64/mingw64/bin/ar.exe qc libmathFunc.a  CMakeFiles/mathFunc.dir/mysqrt.cpp.obj
+C:/msys64/mingw64/bin/ranlib.exe libmathFunc.a

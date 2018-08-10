@@ -1,0 +1,6 @@
+D:/ff/codespace/codespace/cpp/cmake_use_lib/build/CMakeFiles/Tutorial.dir
+D:/ff/codespace/codespace/cpp/cmake_use_lib/build/CMakeFiles/edit_cache.dir
+D:/ff/codespace/codespace/cpp/cmake_use_lib/build/CMakeFiles/rebuild_cache.dir
+D:/ff/codespace/codespace/cpp/cmake_use_lib/build/mathFunc/CMakeFiles/rebuild_cache.dir
+D:/ff/codespace/codespace/cpp/cmake_use_lib/build/mathFunc/CMakeFiles/mathFunc.dir
+D:/ff/codespace/codespace/cpp/cmake_use_lib/build/mathFunc/CMakeFiles/edit_cache.dir

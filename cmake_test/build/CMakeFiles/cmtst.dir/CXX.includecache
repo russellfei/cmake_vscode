@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ff/codespace/codespace/cpp/cmake_in_vscode/cmake_test/main_first.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

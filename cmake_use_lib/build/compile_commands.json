@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/ff/codespace/codespace/cpp/cmake_use_lib/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe   @CMakeFiles/Tutorial.dir/includes_CXX.rsp -O3 -DNDEBUG   -o CMakeFiles/Tutorial.dir/tutorial.cpp.obj -c D:/ff/codespace/codespace/cpp/cmake_use_lib/tutorial.cpp",
+  "file": "D:/ff/codespace/codespace/cpp/cmake_use_lib/tutorial.cpp"
+},
+{
+  "directory": "D:/ff/codespace/codespace/cpp/cmake_use_lib/build/mathFunc",
+  "command": "C:/msys64/mingw64/bin/g++.exe   @CMakeFiles/mathFunc.dir/includes_CXX.rsp -O3 -DNDEBUG   -o CMakeFiles/mathFunc.dir/mysqrt.cpp.obj -c D:/ff/codespace/codespace/cpp/cmake_use_lib/mathFunc/mysqrt.cpp",
+  "file": "D:/ff/codespace/codespace/cpp/cmake_use_lib/mathFunc/mysqrt.cpp"
+}
+]
