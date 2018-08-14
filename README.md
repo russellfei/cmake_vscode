@@ -82,9 +82,6 @@
 10. 配置调试`launch.json`,参考模板如下:
     ```json
     {
-        // Use IntelliSense to learn about possible attributes.
-        // Hover to view descriptions of existing attributes.
-        // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
         "version": "0.2.0",
         "configurations": [
             {
